@@ -50,7 +50,7 @@
 		        <section id="welcome">
 		            <div class="content-header">
 		                <h1>United Core Systems  </h1> </br>
-						<h4>2025 DevOps / Cloud Computing Bootcamp</h4>
+						<h4>2023 DevOps / Cloud Computing Bootcamp Worcester</h4>
 
 		            </div>
 		            <div class="welcome">
