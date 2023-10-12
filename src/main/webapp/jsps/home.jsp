@@ -55,7 +55,7 @@
 		            </div>
 		            <div class="welcome">
                         
-                        <h2 class="twenty">Welcome To United Core System</h2>
+                        <h2 class="twenty">Welcome To United Core System class 2023</h2>
 
                         <p>Thank you for participating in our program today, we truly appreciate you being here!</p>
 						</br>
