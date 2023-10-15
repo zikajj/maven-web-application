@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>zellewebapp</finalName>
+		<finalName>zelle-app</finalName>
 		
 		<plugins>
 			<plugin>
